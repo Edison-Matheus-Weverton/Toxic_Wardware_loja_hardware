@@ -10,7 +10,7 @@ Grupo: Edison, Matheus, Weverton.
 
 ## INTRODUÇÃO
 
-texto de introdução
+Toxic hardware's é uma loja voltada para a venda de peças de informática que atende a qualquer pessoa do país virtualmente, o frete varia de acordo com sua região e os produtos são sempre bem embalados visando a segurança do produto.
 
 Link do programa existente de onde saiu uma ideia:  https://www.terabyteshop.com.br/
 
