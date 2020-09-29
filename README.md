@@ -10,7 +10,7 @@ Grupo: Edison, Matheus, Weverton.
 
 ## INTRODUÇÃO
 
-Toxic hardware's é uma loja voltada para a venda de peças de informática que atende a qualquer pessoa do país virtualmente, o frete varia de acordo com sua região e os produtos são sempre bem embalados visando a segurança do produto.
+texto de introdução
 
 Link do programa existente de onde saiu uma ideia:  https://www.terabyteshop.com.br/
 
@@ -24,3 +24,8 @@ Faltaestoque | cadeia de caracteres | Mostrar o estoque dos produtos
 Fornecedores | cadeia de caracteres | Mostrar os fornecedores da loja
 Despesas | real | Mostrar o valor da despesa da loja
 Vendas | cadeia de caracteres | Mostrar  as vendas da loja
+Marca | Cadeia de caracteres | Mostrar a marca do produto em análise
+Tamanho | Cadeia de caracteres | Mostrar o tamanho do produto em análise
+Valorfrete | Float | Mostrar o frete da compra realizada
+Preco | Float | Mostrar o preço da compra realizada
+Formadepagamento | Cadeia de Caracteres | Mostrar a seleção de meios de pagamento
