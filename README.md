@@ -8,7 +8,7 @@ TRABALHO - ETAPA 1
 
 Grupo: Edison, Matheus, Weverton.
 
-##INTRODUÇÃO
+## Introdução
 
 texto de introdução
 
