@@ -1,4 +1,4 @@
-# Toxic_Wardware_loja_hardwareINTRODUÇÃO
+#  Toxic_Hardwares
 
 CEFET - MG /  CAMPUS LEOPOLDINA
 
@@ -12,4 +12,9 @@ Grupo: Edison, Matheus, Weverton.
 
 texto de introdução
 
-Link do programa existente de onde saiu uma ideia: link
+Link do programa existente de onde saiu uma ideia:  https://www.terabyteshop.com.br/
+
+## Declarando variáveis:
+
+Nome do campo | Tipo | Descrição
+| ------------- | ---- | ----------------- |
